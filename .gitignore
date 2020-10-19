@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__
+intermediates/
+outputs/
+__pycache__
+.ipynb_checkpoints/
+Pipfile.lock
